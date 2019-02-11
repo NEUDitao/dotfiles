@@ -3,3 +3,4 @@ A loose compilation of my dotfiles, just so I can clone them across multiple dev
 
 ## Currently has:
   - .bash_profile from work Mac
+  - .emacs file (so uggglllyyy)
